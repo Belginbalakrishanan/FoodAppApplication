@@ -51,7 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApplicationDbContext\FoodAppDbContext.cs" />
+    <Compile Include="AppDbContext\FoodAppDbContext.cs" />
     <Compile Include="Interface\IAdminRepository.cs" />
     <Compile Include="Interface\ICartRepository.cs" />
     <Compile Include="Interface\IFoodItemRepository.cs" />
